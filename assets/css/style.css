@@ -134,7 +134,7 @@ h1, h2 ,h3, h4, h5, p, ul, ol, li {
     gap: 40px;
     border-radius: 50px;
     background-color: var(--background-color-modal);
-    background-image: url("../image/raster_image/modal/bread.png");
+    background-image: url("../images/modal-block.png");
     background-repeat: no-repeat;
     background-size: 617px 448px;
     background-position: top 145px right -141px;
